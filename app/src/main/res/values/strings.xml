@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">A7S212021ProyectoFinal</string>
+    <string name="titulo">Proyecto Final</string>
+    <string name="tnombre">nombre</string>
+    <string name="tmatricula">Matricula</string>
+    <string name="tcorreo">Correo</string>
+    <string name="tpromedio">Promedio</string>
+</resources>
